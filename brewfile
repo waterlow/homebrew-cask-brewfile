@@ -1,8 +1,10 @@
 tap matsu-chara/brew-bundle || true
 tap homebrew/boneyard || true
+tap sanemat/font || true
 
 update || true
 install caskroom/cask/brew-cask || true
+install Caskroom/cask/xquartz || true
 install brew-bundle || true
 install git || true
 install ricty || true
