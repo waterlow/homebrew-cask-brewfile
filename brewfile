@@ -1,0 +1,22 @@
+tap matsu-chara/brew-bundle || true
+tap homebrew/boneyard || true
+
+update || true
+install caskroom/cask/brew-cask || true
+install brew-bundle || true
+install git || true
+install ricty || true
+install ruby-build || true
+install rbenv || true
+
+cask install google-chrome || true
+cask install google-japanese-ime || true
+cask install karabiner || true
+cask install clipmenu || true
+cask install evernote || true
+cask install catchmouse || true
+cask install iterm2 || true
+cask install virtualbox || true
+cask install vagrant || true
+cask install hipchat || true
+cask install sequel-pro || true
