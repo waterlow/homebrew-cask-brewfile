@@ -13,6 +13,7 @@ install rbenv || true
 
 cask install google-chrome || true
 cask install google-japanese-ime || true
+cask install google-drive || true
 cask install karabiner || true
 cask install clipmenu || true
 cask install evernote || true
