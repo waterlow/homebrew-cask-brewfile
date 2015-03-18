@@ -22,4 +22,5 @@ cask install iterm2 || true
 cask install virtualbox || true
 cask install vagrant || true
 cask install hipchat || true
+cask install slack || true
 cask install sequel-pro || true
